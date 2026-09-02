@@ -29,7 +29,7 @@ Download: https://ffmpeg.org and add to PATH
 Or just upload .wav files to skip this
 
 ### Usage
-streamlit run app.py
+0. streamlit run app.py
 1. Open http://localhost:8501
 2. Upload a .wav/.mp3/.m4a meeting recording
 3. Get Transcript + Actions instantly
