@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+client_secret.json
+__pycache__/
+*.pyc
+sql/data/meetscribe.db
+*.wav
+*.mp3
+*.m4a

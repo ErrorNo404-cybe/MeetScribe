@@ -1,0 +1,15 @@
+streamlit
+openai-whisper
+torch
+torchaudio
+langchain
+langchain-community
+transformers
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
+numpy
+plotly
+accelerate
+bitsandbytes
