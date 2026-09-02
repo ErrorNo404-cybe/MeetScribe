@@ -37,11 +37,17 @@ Or just upload .wav files to skip this
 5. Email Results
 
 ### System Requirements
-| Minimum | Recommended
-**RAM** | 8GB | 16GB
-**GPU** | CPU Only ~25s per meeting | Nvidia 8GB+ VRAM ~5s
-**Disk** | 10GB Free | 10GB Free
-**OS** | Windows 10+ / Mac / Linux | Windows 10+ / Mac / Linux
+-------------------------------------------------------------------
+| Spec    |          Minimum          |    Recommended:           |
+-------------------------------------------------------------------
+|**RAM**  | 8GB                       | 16GB                      |
+-------------------------------------------------------------------
+|**GPU**  | CPU Only ~25s per meeting | Nvidia 8GB+ VRAM ~5s      |
+-------------------------------------------------------------------
+|**Disk** | 10GB Free                 | 10GB Free                 |
+-------------------------------------------------------------------
+|**OS**   | Windows 10+ / Mac / Linux | Windows 10+ / Mac / Linux |
+-------------------------------------------------------------------
 
 ### Privacy
 Everything runs 100% locally. No data is sent to OpenAI, Google, or any cloud service.
